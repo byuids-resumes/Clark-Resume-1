@@ -2,8 +2,8 @@
 (208)760-2902 | tevin98@gmail.com | www.linkedin.com/in/kevin-clark0
 ***
 ## Education
-**Bachelors in Data Science**
-Brigham Young University-Idaho
+**Bachelors in Data Science** </br>
+Brigham Young University-Idaho </br>
 Anticipated Graduation: 2024
 
 ## Skills
