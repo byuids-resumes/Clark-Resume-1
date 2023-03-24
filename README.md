@@ -6,7 +6,7 @@
 Brigham Young University-Idaho
 Anticipated Graduation: 2024
 
-## Certification and Skills
+## Skills
 * Coding (Python, R, SQL)
 * Data Visualization (Python, R, Excel, Tableau, Power BI)
 * Statistics
