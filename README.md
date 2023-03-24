@@ -1,5 +1,5 @@
 # Kevin Clark
-(208)760-2902|tevin98@gmail.com|www.linkedin.com/in/kevin-clark0
+(208)760-2902 | tevin98@gmail.com | www.linkedin.com/in/kevin-clark0
 ***
 ## Education
 **Bachelors in Data Science**
@@ -12,6 +12,4 @@ Anticipated Graduation: 2024
 * Statistics
 * Power Automate
 * MAXQDA
-
-***
 
