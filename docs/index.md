@@ -2,83 +2,82 @@
 layout: cv
 title: Brigham Young's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Kevin Clark
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+<a href="tevin98@gmail.com">tevin98@gmail.com</a>
+| <a href="http://www.linkedin.com/in/kevin-clark0">LinkedIn</a>
+| <a href="https://github.com/kevinwc3">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+__Bachelors in Data Science__
+`Expected 2024`
+Brigham Young University - Idaho, Rexburg, ID
 
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
-
-- 4.0 Major GPA
-
+## Skills
+- Coding (Python, R SQL)
+- Data Visualization (Python, R, Excel, Tableau, Power BI)
+- Statistics
+- Power Automate
+- MAXQDA
 
 ## Related Experience
 
-### Internships
+__HR Data Analyst Intern__
+_The Church of Jesus Christ of Latter-day Saints_, Riverton, UT
+`April 2023 - April 2024`
+- TBD
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+__Research Specialist__
+_Brigham Young University - Idaho_, Rexburg, ID
+`November 2021 - April 2023`
+- Analyzed data to determine if there were correlations between survey responses regarding student success and student GPAs using the T-test.
+- Visualized data in Power BI for various classes to better illustrate various assignment scores.
+- Wrangled and combined datasets in R to make our data easier to analyze.
+- Built and distributed multiple surveys in Qualtrics for over 20,000 students every semester. These surveys would help the school better understand how students were managing college life and why students would drop classes.
+- Coded themes for thousands of qualitative survey results and visualized these results in Excel.
+- Discovered more efficient ways to get and transfer data from SharePoint to Excel using Power Automate.
+- Interviewed students for a better understanding of how effective different school programs were.
+- Studied students at school events and used MAXQDA to analyze notes.
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
-
-### Data Science Lead
-
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+__Data Science Society__
+_Brigham Young University - Idaho_, Rexburg, ID
+`January 2023 - April 2023`
+- Cleaned datasets containing thousands of variables to determine how accurate our data was.
+- Evaluated our data using a Z-test to determine how significant the mistakes were.
+- Loaded files into Python and built functions for list creation.
+- Communicated with multiple team members and faculty to make sure we were all contributing and on the same page as
+one another.
+- Compared our clean data using the ANOVA test to find significant variance.
 
 
-## Service and Work History
+### About Me
+I am a huge sports fan. I love playing and watching basketball. I take part in a fantasy football league every year with some friends.
+I have finished in the top 5 in this league every year but have never won. I also love watching movies. My favorite movie is
+Interstellar, but it changes all the time.
 
-`2025-2027`
-__Math Tutor__, LDSBC
+
+## References
 
 
-`2023-2025`
-__Service Missionary__, South Africa
+__Matthew Taylor__
+Full-time Researcher (Brigham Young University – Idaho)
+Phone Number: 208-496-1102
+Email: taylormat@byui.edu
+
+__Quinn Christiansen__
+Full-time Researcher (Brigham Young University – Idaho)
+Phone Number: 208-496-1526
+Email: christiansenq@byui.edu
+
+
+__David House__
+Manager (Discount Tire)
+Phone Number: 801-706-9956
 
 
 
