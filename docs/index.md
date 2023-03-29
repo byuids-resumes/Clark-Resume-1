@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Kevin Clark's Resume
 ---
 # Kevin Clark
 
